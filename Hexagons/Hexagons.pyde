@@ -32,7 +32,6 @@ def pattern(rad,stroke_weight):
     # horizontal overlap of the hexagons
     xOverlap = 15
         
-    # draw the white thick-lined hexagons first
     for i in range(0,10):
         for j in range(0,10):
             # For the i'th row, the position of 
