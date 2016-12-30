@@ -9,7 +9,7 @@ def setup():
 def draw():
     background(118,185,214)
     
-    # draw think white lines
+    # draw thick white lines
     fill(255)
     pattern(80,10)
         
